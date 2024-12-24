@@ -6,7 +6,6 @@ The system needs to include:
 - Mobile-responsive dashboard
 - Reporting and analytics features
 
-Timeline constraints: Must be completed within 3 months
 Budget: $50,000
 Key requirements:
 - GDPR compliance for customer data
