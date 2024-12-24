@@ -1,0 +1,15 @@
+Development of a Customer Relationship Management (CRM) system for a medium-sized retail business. 
+The system needs to include:
+- Customer database with contact information and purchase history
+- Sales pipeline tracking
+- Email marketing integration
+- Mobile-responsive dashboard
+- Reporting and analytics features
+
+Timeline constraints: Must be completed within 3 months
+Budget: $50,000
+Key requirements:
+- GDPR compliance for customer data
+- Integration with existing e-commerce platform
+- Training materials for staff
+- Cloud-based deployment with 99.9% uptime

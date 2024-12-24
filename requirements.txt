@@ -1,0 +1,8 @@
+langchain_openai==0.2.14
+langgraph==0.2.60
+matplotlib==3.10.0
+pandas==2.2.3
+plotly==5.24.1
+pydantic==2.10.4
+streamlit==1.41.1
+openpyxl==3.1.5
