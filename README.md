@@ -2,7 +2,7 @@
 
 An intelligent project planning agent application powered by GPT-4o-Mini that helps you organize, schedule, and manage your projects efficiently.
 
-![](https://github.com/selcuksntrk/p_mage_ai_agent/assets/PMAGE_Demo.gif)
+![til](./assets/PMAGE_Demo.gif)
 
 ## Requirements
 
